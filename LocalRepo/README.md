@@ -1,2 +1,6 @@
 # This is my local repo 
+<<<<<<< HEAD
 <p>This is anew feature (dropdown)</p>
+=======
+<p>This is anew feature (button)</p>
+>>>>>>> main
